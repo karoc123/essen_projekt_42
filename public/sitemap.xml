@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://42.karoc.de/essen/post/sauerkraut-mit-hackfleisch/</loc>
+    <lastmod>2017-06-29T15:01:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://42.karoc.de/essen/post/kokos-chili-suppe/</loc>
+    <lastmod>2017-06-13T15:01:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://42.karoc.de/essen/post/pfannkuchen-mit-kokosmehl/</loc>
+    <lastmod>2017-06-13T15:01:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://42.karoc.de/essen/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://42.karoc.de/essen/post/</loc>
+    <lastmod>2017-06-29T15:01:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://42.karoc.de/essen/</loc>
+    <lastmod>2017-06-29T15:01:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://42.karoc.de/essen/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

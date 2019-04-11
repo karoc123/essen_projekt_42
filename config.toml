@@ -1,0 +1,18 @@
+baseURL = "http://42.karoc.de/essen/"
+languageCode = "de-de"
+title = "Projekt:Essen"
+theme = "minimo"
+
+[params]
+  description = "Eine Rezeptesammlung"
+  dateFormat = "2006, Jan 2"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
