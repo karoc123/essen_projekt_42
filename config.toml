@@ -16,3 +16,4 @@ theme = "minimo"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
