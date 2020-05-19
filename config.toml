@@ -1,4 +1,4 @@
-baseURL = "http://42.karoc.de/essen/"
+baseURL = "https://42.karoc.de/essen/"
 languageCode = "de-de"
 title = "Projekt:Essen"
 theme = "minimo"
