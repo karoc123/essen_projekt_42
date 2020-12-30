@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Bergbrot</title>
+      <link>https://42.karoc.de/essen/post/bergbrot/</link>
+      <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
+      
+      <guid>https://42.karoc.de/essen/post/bergbrot/</guid>
+      <description>&lt;p&gt;Ein Bergbrot-Rezept für geduldige&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Knoblauchfladenbrot</title>
       <link>https://42.karoc.de/essen/post/knoblauchbrot/</link>
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
@@ -35,7 +44,52 @@
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
       
       <guid>https://42.karoc.de/essen/post/pizzateig/</guid>
-      <description>&lt;p&gt;Ein Pizzateig-Rezept mit passender Tomatensauce&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ein Pizzateig-Rezept mit passender Tomatensauce
+&lt;figure&gt;
+    &lt;img src=&#34;img/pizza.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Ein Blech Pizza&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Topfbrot</title>
+      <link>https://42.karoc.de/essen/post/topfbrot/</link>
+      <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
+      
+      <guid>https://42.karoc.de/essen/post/topfbrot/</guid>
+      <description>&lt;p&gt;Ein Topfbrot-Rezept
+&lt;figure&gt;
+    &lt;img src=&#34;img/topfbrot.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Ein fertiges Brot&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>vegetarische Hamburger</title>
+      <link>https://42.karoc.de/essen/post/vegetarische-hamburger/</link>
+      <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
+      
+      <guid>https://42.karoc.de/essen/post/vegetarische-hamburger/</guid>
+      <description>&lt;p&gt;Ein Rezept für vegetarische Hamburger
+&lt;figure&gt;
+    &lt;img src=&#34;img/burger.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Ein fertiger Burger&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blue Curaçao Torte</title>
+      <link>https://42.karoc.de/essen/post/blue-curacao-torte/</link>
+      <pubDate>Wed, 01 Jan 2020 15:01:33 +0200</pubDate>
+      
+      <guid>https://42.karoc.de/essen/post/blue-curacao-torte/</guid>
+      <description>&lt;p&gt;Die kleine Swimming-Pool-Verführung.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,6 +102,21 @@
 &lt;figure&gt;
     &lt;img src=&#34;img/pornokuchen.jpg&#34;/&gt; &lt;figcaption&gt;
             &lt;h4&gt;Schokoladenkuchen&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Schwarzwälder-Käse-Torte</title>
+      <link>https://42.karoc.de/essen/post/schwarzwaelderkasekuchen/</link>
+      <pubDate>Wed, 01 Jan 2020 15:01:33 +0200</pubDate>
+      
+      <guid>https://42.karoc.de/essen/post/schwarzwaelderkasekuchen/</guid>
+      <description>&lt;p&gt;Eine Schwarzwälder-Käse-Torte.
+&lt;figure&gt;
+    &lt;img src=&#34;img/schwarzwaelder-kase-torte.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Ein Stück Schwarzwälder-Käse-Torte&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/p&gt;</description>
