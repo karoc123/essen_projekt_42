@@ -26,4 +26,4 @@ Den Teig danach auf bemehltes Backpapier kippen und in eine Runde Form bringen. 
 Den Teig nun in (mit Backpapier) in einen Topf geben, welcher keine Plastik- oder Holzgriffe hat und im vorgeheizten Backofen 210°C (Ober-/Unterhitze) für ca. 45 min mit Deckel backen. Danach das Brot vorsichtig entnehmen, vom Backpapier trennen und noch einmal für weitere 45 min. ohne Deckel und ohne Backpapier aber im Topf backen. Danach das Brot auskühlen lassen.
 
 ## Für experimentierfreudige
-Dem Teig können nach Belieben Kräuter und Gewürze beigegeben werden. Besonders zu empfehlen: gepresste Knoblauchzehen, Petersilie, Schnittlauch und auf die Kruste (vor dem Backen) gemahlenen Pfeffer und Chili.
+Dem Teig können nach Belieben Kräuter und Gewürze beigegeben werden. Besonders zu empfehlen: gepresste Knoblauchzehen, Petersilie, Schnittlauch, Oliven und auf die Kruste (vor dem Backen) gemahlenen Pfeffer und Chili.
