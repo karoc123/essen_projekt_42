@@ -17,7 +17,13 @@
       <pubDate>Mon, 13 Dec 2021 15:01:33 +0200</pubDate>
       
       <guid>https://42.karoc.de/essen/post/hirsebrei/</guid>
-      <description>&lt;p&gt;Ein Hirse-Obst-Brei-Rezept&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ein Hirse-Obst-Brei-Rezept
+&lt;figure&gt;
+    &lt;img src=&#34;img/hirsebrei.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Hirsebrei&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
