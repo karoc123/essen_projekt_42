@@ -5,7 +5,7 @@ title = "Hirsebrei"
 +++
 
 Ein Hirse-Obst-Brei-Rezept
-{{< figure src="img/hirsebrei.jpg" title=Hirsebrei" >}}
+{{< figure src="img/hirsebrei.jpg" title="Hirsebrei" >}}
 
 <!--more-->
 ## Zutaten (für ca. 4 Portionen)
