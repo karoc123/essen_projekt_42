@@ -1,5 +1,5 @@
 +++
-date = "2020-01-01T15:01:33+02:00"
+date = "2022-01-01T15:01:33+02:00"
 draft = false
 title = "Käsezupfkuchen"
 +++
