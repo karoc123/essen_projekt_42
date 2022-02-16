@@ -5,7 +5,7 @@ title = "Käsezupfkuchen"
 +++
 
 Eine Käsekuchen mit Schokoboden -und streusel.
-{{< figure src="img/schwarzwaelder-kase-torte.jpg" title="Ein Stück Schwarzwälder-Käse-Torte" >}}
+{{< figure src="img/kaesezupfkuchen.jpg" title="Ein Stück Käse-Torte" >}}
 
 <!--more-->
 ## Zutaten (für eine Springform 26 cm Ø)
