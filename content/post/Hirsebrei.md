@@ -28,3 +28,6 @@ Die Hirse in einem Sieb gründlich waschen und anschließend in den Mandeldrink 
 Die Banane schälen und mit einer Gabel zerdrücken. Mit dem Salz, dem Öl und dem Zimt zum Brei hinzugeben.
 
 Den fertigen Brei auf Schüsseln verteilen und mit den frischen, gewaschenen Blaubeeren dekorieren.
+
+## Tipp
+Der Brei schmeckt frisch am besten. Am nächsten Morgen wird die Hirse etwas körniger.
