@@ -1,127 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://42.karoc.de/essen/post/kaesezupfkuchen/</loc>
+    <loc>http://localhost:1313/tags/index/</loc>
     <lastmod>2022-01-01T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/kaesezupfkuchen/</loc>
     <lastmod>2022-01-01T15:01:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-01-01T15:01:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/hirsebrei/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-01-01T15:01:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2022-01-01T15:01:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hirsebrei/</loc>
     <lastmod>2021-12-13T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/falafel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/falafel/</loc>
     <lastmod>2021-05-06T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/humus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/humus/</loc>
     <lastmod>2021-05-06T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/kuerbiskern-knoblauch-aufstrich/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/kuerbiskern-knoblauch-aufstrich/</loc>
     <lastmod>2021-05-06T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/low-carb-bounty-snack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/low-carb-bounty-snack/</loc>
     <lastmod>2021-05-06T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/naan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/naan/</loc>
     <lastmod>2021-05-06T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/schoko-creme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/schoko-creme/</loc>
     <lastmod>2021-05-06T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/bergbrot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/bergbrot/</loc>
     <lastmod>2020-09-03T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/knoblauchbrot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/knoblauchbrot/</loc>
     <lastmod>2020-09-03T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/laugenstangen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/laugenstangen/</loc>
     <lastmod>2020-09-03T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/pizzateig/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/pizzateig/</loc>
     <lastmod>2020-09-03T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/topfbrot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/topfbrot/</loc>
     <lastmod>2020-09-03T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/vegetarische-hamburger/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/vegetarische-hamburger/</loc>
     <lastmod>2020-09-03T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/blue-curacao-torte/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/blue-curacao-torte/</loc>
     <lastmod>2020-01-01T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/porno-schoko-kuchen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/porno-schoko-kuchen/</loc>
     <lastmod>2020-01-01T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/schwarzwaelderkasekuchen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/schwarzwaelderkasekuchen/</loc>
     <lastmod>2020-01-01T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/sauerkraut-mit-hackfleisch/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/sauerkraut-mit-hackfleisch/</loc>
     <lastmod>2017-06-29T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/kokos-chili-suppe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/kokos-chili-suppe/</loc>
     <lastmod>2017-06-13T15:01:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/post/pfannkuchen-mit-kokosmehl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/pfannkuchen-mit-kokosmehl/</loc>
     <lastmod>2017-06-13T15:01:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://42.karoc.de/essen/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

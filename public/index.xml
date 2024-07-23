@@ -1,249 +1,153 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projekt:Essen</title>
-    <link>https://42.karoc.de/essen/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Projekt:Essen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-de</language>
+    <copyright>made to 🍽️</copyright>
     <lastBuildDate>Sat, 01 Jan 2022 15:01:33 +0200</lastBuildDate>
-    
-	<atom:link href="https://42.karoc.de/essen/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Käsezupfkuchen</title>
-      <link>https://42.karoc.de/essen/post/kaesezupfkuchen/</link>
+      <link>http://localhost:1313/posts/kaesezupfkuchen/</link>
       <pubDate>Sat, 01 Jan 2022 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/kaesezupfkuchen/</guid>
-      <description>&lt;p&gt;Eine Käsekuchen mit Schokoboden und -streusel.
-&lt;figure&gt;
-    &lt;img src=&#34;img/kaesezupfkuchen.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Ein Stück Käse-Torte&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/kaesezupfkuchen/</guid>
+      <description>&lt;p&gt;Eine Käsekuchen mit Schokoboden und -streusel.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/kaesezupfkuchen.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Ein Stück Käse-Torte&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hirsebrei</title>
-      <link>https://42.karoc.de/essen/post/hirsebrei/</link>
+      <link>http://localhost:1313/posts/hirsebrei/</link>
       <pubDate>Mon, 13 Dec 2021 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/hirsebrei/</guid>
-      <description>&lt;p&gt;Ein Hirse-Obst-Brei-Rezept
-&lt;figure&gt;
-    &lt;img src=&#34;img/hirsebrei.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Hirsebrei&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/hirsebrei/</guid>
+      <description>&lt;p&gt;Ein Hirse-Obst-Brei-Rezept&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/hirsebrei.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Hirsebrei&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Falafel</title>
-      <link>https://42.karoc.de/essen/post/falafel/</link>
+      <link>http://localhost:1313/posts/falafel/</link>
       <pubDate>Thu, 06 May 2021 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/falafel/</guid>
+      <guid>http://localhost:1313/posts/falafel/</guid>
       <description>&lt;p&gt;Ein Falafel-Rezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Humus</title>
-      <link>https://42.karoc.de/essen/post/humus/</link>
+      <link>http://localhost:1313/posts/humus/</link>
       <pubDate>Thu, 06 May 2021 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/humus/</guid>
+      <guid>http://localhost:1313/posts/humus/</guid>
       <description>&lt;p&gt;Ein Humus Grundrezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kürbiskern-Knoblauch Aufstrich</title>
-      <link>https://42.karoc.de/essen/post/kuerbiskern-knoblauch-aufstrich/</link>
+      <link>http://localhost:1313/posts/kuerbiskern-knoblauch-aufstrich/</link>
       <pubDate>Thu, 06 May 2021 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/kuerbiskern-knoblauch-aufstrich/</guid>
+      <guid>http://localhost:1313/posts/kuerbiskern-knoblauch-aufstrich/</guid>
       <description>&lt;p&gt;Ein Aufstrich-Rezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Low Carb Bounty Snacks</title>
-      <link>https://42.karoc.de/essen/post/low-carb-bounty-snack/</link>
+      <link>http://localhost:1313/posts/low-carb-bounty-snack/</link>
       <pubDate>Thu, 06 May 2021 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/low-carb-bounty-snack/</guid>
+      <guid>http://localhost:1313/posts/low-carb-bounty-snack/</guid>
       <description>&lt;p&gt;Ein Schokoriegel &amp;ldquo;Bounty&amp;rdquo;-Rezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Naan</title>
-      <link>https://42.karoc.de/essen/post/naan/</link>
+      <link>http://localhost:1313/posts/naan/</link>
       <pubDate>Thu, 06 May 2021 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/naan/</guid>
+      <guid>http://localhost:1313/posts/naan/</guid>
       <description>&lt;p&gt;Ein &amp;ldquo;indisches Fladenbrot&amp;rdquo; Naan-Rezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Schokoladen-Haselnuss-Creme</title>
-      <link>https://42.karoc.de/essen/post/schoko-creme/</link>
+      <link>http://localhost:1313/posts/schoko-creme/</link>
       <pubDate>Thu, 06 May 2021 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/schoko-creme/</guid>
+      <guid>http://localhost:1313/posts/schoko-creme/</guid>
       <description>&lt;p&gt;Ein Schokoladen-Creme-Rezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bergbrot</title>
-      <link>https://42.karoc.de/essen/post/bergbrot/</link>
+      <link>http://localhost:1313/posts/bergbrot/</link>
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/bergbrot/</guid>
+      <guid>http://localhost:1313/posts/bergbrot/</guid>
       <description>&lt;p&gt;Ein Bergbrot-Rezept für geduldige&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Knoblauchfladenbrot</title>
-      <link>https://42.karoc.de/essen/post/knoblauchbrot/</link>
+      <link>http://localhost:1313/posts/knoblauchbrot/</link>
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/knoblauchbrot/</guid>
+      <guid>http://localhost:1313/posts/knoblauchbrot/</guid>
       <description>&lt;p&gt;Ein Knoblauchfladenbrot-Rezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Laugenstangen</title>
-      <link>https://42.karoc.de/essen/post/laugenstangen/</link>
+      <link>http://localhost:1313/posts/laugenstangen/</link>
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/laugenstangen/</guid>
+      <guid>http://localhost:1313/posts/laugenstangen/</guid>
       <description>&lt;p&gt;Ein Laugengebäck-Rezept&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pizzateig</title>
-      <link>https://42.karoc.de/essen/post/pizzateig/</link>
+      <link>http://localhost:1313/posts/pizzateig/</link>
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/pizzateig/</guid>
-      <description>&lt;p&gt;Ein Pizzateig-Rezept mit passender Tomatensauce
-&lt;figure&gt;
-    &lt;img src=&#34;img/pizza.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Ein Blech Pizza&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/pizzateig/</guid>
+      <description>&lt;p&gt;Ein Pizzateig-Rezept mit passender Tomatensauce&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/pizza.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Ein Blech Pizza&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Topfbrot</title>
-      <link>https://42.karoc.de/essen/post/topfbrot/</link>
+      <link>http://localhost:1313/posts/topfbrot/</link>
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/topfbrot/</guid>
-      <description>&lt;p&gt;Ein Topfbrot-Rezept
-&lt;figure&gt;
-    &lt;img src=&#34;img/topfbrot.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Ein fertiges Brot&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/topfbrot/</guid>
+      <description>&lt;p&gt;Ein Topfbrot-Rezept&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/topfbrot.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Ein fertiges Brot&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>vegetarische Hamburger</title>
-      <link>https://42.karoc.de/essen/post/vegetarische-hamburger/</link>
+      <link>http://localhost:1313/posts/vegetarische-hamburger/</link>
       <pubDate>Thu, 03 Sep 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/vegetarische-hamburger/</guid>
-      <description>&lt;p&gt;Ein Rezept für vegetarische Hamburger
-&lt;figure&gt;
-    &lt;img src=&#34;img/burger.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Ein fertiger Burger&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/vegetarische-hamburger/</guid>
+      <description>&lt;p&gt;Ein Rezept für vegetarische Hamburger&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/burger.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Ein fertiger Burger&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blue Curaçao Torte</title>
-      <link>https://42.karoc.de/essen/post/blue-curacao-torte/</link>
+      <link>http://localhost:1313/posts/blue-curacao-torte/</link>
       <pubDate>Wed, 01 Jan 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/blue-curacao-torte/</guid>
+      <guid>http://localhost:1313/posts/blue-curacao-torte/</guid>
       <description>&lt;p&gt;Die kleine Swimming-Pool-Verführung.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pornokuchen</title>
-      <link>https://42.karoc.de/essen/post/porno-schoko-kuchen/</link>
+      <link>http://localhost:1313/posts/porno-schoko-kuchen/</link>
       <pubDate>Wed, 01 Jan 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/porno-schoko-kuchen/</guid>
-      <description>&lt;p&gt;Der schokoladigste Kuchen der Welt.
-&lt;figure&gt;
-    &lt;img src=&#34;img/pornokuchen.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Schokoladenkuchen&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/porno-schoko-kuchen/</guid>
+      <description>&lt;p&gt;Der schokoladigste Kuchen der Welt.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/pornokuchen.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Schokoladenkuchen&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Schwarzwälder-Käse-Torte</title>
-      <link>https://42.karoc.de/essen/post/schwarzwaelderkasekuchen/</link>
+      <link>http://localhost:1313/posts/schwarzwaelderkasekuchen/</link>
       <pubDate>Wed, 01 Jan 2020 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/schwarzwaelderkasekuchen/</guid>
-      <description>&lt;p&gt;Eine Schwarzwälder-Käse-Torte.
-&lt;figure&gt;
-    &lt;img src=&#34;img/schwarzwaelder-kase-torte.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Ein Stück Schwarzwälder-Käse-Torte&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/schwarzwaelderkasekuchen/</guid>
+      <description>&lt;p&gt;Eine Schwarzwälder-Käse-Torte.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/schwarzwaelder-kase-torte.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Ein Stück Schwarzwälder-Käse-Torte&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sauerkraut mit Hackfleisch</title>
-      <link>https://42.karoc.de/essen/post/sauerkraut-mit-hackfleisch/</link>
+      <link>http://localhost:1313/posts/sauerkraut-mit-hackfleisch/</link>
       <pubDate>Thu, 29 Jun 2017 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/sauerkraut-mit-hackfleisch/</guid>
-      <description>&lt;p&gt;Ein sehr einfaches Rezept für ein Kohlenhydratearmes Essen.
-&lt;figure&gt;
-    &lt;img src=&#34;img/sauerkraut-mit-hack.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Sauerkraut mit Hack&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/sauerkraut-mit-hackfleisch/</guid>
+      <description>&lt;p&gt;Ein sehr einfaches Rezept für ein Kohlenhydratearmes Essen.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/sauerkraut-mit-hack.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Sauerkraut mit Hack&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kokos-Chili-Suppe</title>
-      <link>https://42.karoc.de/essen/post/kokos-chili-suppe/</link>
+      <link>http://localhost:1313/posts/kokos-chili-suppe/</link>
       <pubDate>Tue, 13 Jun 2017 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/kokos-chili-suppe/</guid>
-      <description>&lt;p&gt;Eine leckere Kokos-Chili-Suppe mit Karotten &amp;amp; Mango.
-&lt;figure&gt;
-    &lt;img src=&#34;img/kokoschilisuppe.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Kokos-Chili-Suppe&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/kokos-chili-suppe/</guid>
+      <description>&lt;p&gt;Eine leckere Kokos-Chili-Suppe mit Karotten &amp;amp; Mango.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/kokoschilisuppe.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Kokos-Chili-Suppe&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pfannkuchen mit Kokosmehl</title>
-      <link>https://42.karoc.de/essen/post/pfannkuchen-mit-kokosmehl/</link>
+      <link>http://localhost:1313/posts/pfannkuchen-mit-kokosmehl/</link>
       <pubDate>Tue, 13 Jun 2017 15:01:33 +0200</pubDate>
-      
-      <guid>https://42.karoc.de/essen/post/pfannkuchen-mit-kokosmehl/</guid>
+      <guid>http://localhost:1313/posts/pfannkuchen-mit-kokosmehl/</guid>
       <description>&lt;p&gt;Pfannkuchen ohne Mehl.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

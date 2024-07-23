@@ -1,13 +1,17 @@
-baseURL = "https://42.karoc.de/essen/"
+baseURL = "https://essen.karoc.de/"
 languageCode = "de-de"
 title = "Projekt:Essen"
-theme = "minimo"
+theme = "devise"
+copyright = "made to 🍽️"
 
 [params]
   description = "Eine Rezeptesammlung"
+  header_title = "Projekt:Essen"                 # Your header title
+  header_subtitle = "" # Your header subtitle
   dateFormat = "2006, Jan 2"
   favicon = "favicon.ico"
   hideEntryNavigation = false
+  recent_posts = 3000
 
 [params.seo]
   # Title Separator: - – — · • * ⋆ | ~ « » < >
